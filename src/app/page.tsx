@@ -52,7 +52,7 @@ export default function LandingPage() {
         { value: "12", label: "Favorite Places" }
       ]}
       enableKpiAnimation={true}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg?_wi=1"
       imageAlt="Portrait of Johnny"
       mediaAnimation="slide-up"
       avatars={[
@@ -86,9 +86,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       features={[
-        { id: "1", title: "Playtime Adventures", tags: ["Fun", "Play"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg", imageAlt: "Johnny toy time" },
-        { id: "2", title: "Outdoor Discoveries", tags: ["Nature", "Active"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg", imageAlt: "Johnny in park" },
-        { id: "3", title: "Creative Moments", tags: ["Learning", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg", imageAlt: "Johnny learning something new" }
+        { id: "1", title: "Playtime Adventures", tags: ["Fun", "Play"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg?_wi=2", imageAlt: "Johnny toy time" },
+        { id: "2", title: "Outdoor Discoveries", tags: ["Nature", "Active"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg?_wi=1", imageAlt: "Johnny in park" },
+        { id: "3", title: "Creative Moments", tags: ["Learning", "Growth"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg?_wi=1", imageAlt: "Johnny learning something new" }
       ]}
       title="Favorite Memories"
       description="Every moment captured reflects Johnny's bright spirit and curious mind."
@@ -117,9 +117,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       team={[
-        { id: "t1", name: "Mom", role: "Supporter", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg" },
-        { id: "t2", name: "Dad", role: "Role Model", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg" },
-        { id: "t3", name: "Grandma", role: "Storyteller", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg" }
+        { id: "t1", name: "Mom", role: "Supporter", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg?_wi=3" },
+        { id: "t2", name: "Dad", role: "Role Model", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg?_wi=2" },
+        { id: "t3", name: "Grandma", role: "Storyteller", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg?_wi=2" }
       ]}
       title="The Circle of Support"
       description="The amazing family and friends who make Johnny's life so special."
@@ -131,8 +131,8 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Grandma Rose", date: "May 2024", title: "Heartwarming", quote: "Johnny is the light of our lives.", tag: "Family", avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg", imageAlt: "Johnny portrait" },
-        { id: "2", name: "Father Mike", date: "April 2024", title: "Incredible", quote: "Every day is an adventure with him.", tag: "Parent", avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg", imageAlt: "Johnny portrait" }
+        { id: "1", name: "Grandma Rose", date: "May 2024", title: "Heartwarming", quote: "Johnny is the light of our lives.", tag: "Family", avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg?_wi=4", imageAlt: "Johnny portrait" },
+        { id: "2", name: "Father Mike", date: "April 2024", title: "Incredible", quote: "Every day is an adventure with him.", tag: "Parent", avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-300siks7.jpg", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0e807x84.jpg?_wi=3", imageAlt: "Johnny portrait" }
       ]}
       title="Kind Words from Loved Ones"
       description="Heartfelt messages from those whose lives were touched by Johnny's charm."
@@ -160,7 +160,7 @@ export default function LandingPage() {
       tag="Share Memories"
       title="Send a Message"
       description="Have a memory or photo to share? Get in touch and let us know your favorite story about Johnny."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D134JxeJxCHeBeDYDV4jNgVFM4/uploaded-1777435713432-0881mdnl.jpg?_wi=5"
       mediaAnimation="slide-up"
     />
   </div>
