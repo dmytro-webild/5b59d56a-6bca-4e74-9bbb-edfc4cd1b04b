@@ -52,7 +52,7 @@ export default function LandingPage() {
         { value: "12", label: "Favorite Places" }
       ]}
       enableKpiAnimation={true}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg?_wi=1"
       imageAlt="young boy smiling portrait warm"
       mediaAnimation="slide-up"
       avatars={[
@@ -89,9 +89,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       features={[
-        { id: "1", title: "Playtime Adventures", tags: ["Fun", "Play"], imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg", imageAlt: "childhood toys on shelf" },
-        { id: "2", title: "Outdoor Discoveries", tags: ["Nature", "Active"], imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg", imageAlt: "boy running in park" },
-        { id: "3", title: "School Days", tags: ["Learning", "Growth"], imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg", imageAlt: "child learning something new" }
+        { id: "1", title: "Playtime Adventures", tags: ["Fun", "Play"], imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg?_wi=1", imageAlt: "childhood toys on shelf" },
+        { id: "2", title: "Outdoor Discoveries", tags: ["Nature", "Active"], imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg?_wi=1", imageAlt: "boy running in park" },
+        { id: "3", title: "School Days", tags: ["Learning", "Growth"], imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg?_wi=1", imageAlt: "child learning something new" }
       ]}
       title="Favorite Memories"
       description="Every moment captured reflects Johnny's bright spirit and curious mind."
@@ -134,11 +134,11 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Grandma Rose", date: "May 2024", title: "Heartwarming", quote: "Johnny is the light of our lives.", tag: "Family", avatarSrc: "http://img.b2bpic.net/free-photo/senior-woman-with-pigtails-dressed-blue-blouse_273609-5746.jpg", imageSrc: "http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg", imageAlt: "happy grandmother portrait smile" },
+        { id: "1", name: "Grandma Rose", date: "May 2024", title: "Heartwarming", quote: "Johnny is the light of our lives.", tag: "Family", avatarSrc: "http://img.b2bpic.net/free-photo/senior-woman-with-pigtails-dressed-blue-blouse_273609-5746.jpg", imageSrc: "http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg?_wi=2", imageAlt: "happy grandmother portrait smile" },
         { id: "2", name: "Father Mike", date: "April 2024", title: "Incredible", quote: "Every day is an adventure with him.", tag: "Parent", avatarSrc: "http://img.b2bpic.net/free-photo/father-spending-time-with-his-child_23-2149238806.jpg", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-grandpa-taking-photo-grandson_23-2148294938.jpg", imageAlt: "happy grandmother portrait smile" },
-        { id: "3", name: "Sarah Miller", date: "March 2024", title: "So Kind", quote: "I love his endless imagination.", tag: "Friend", avatarSrc: "http://img.b2bpic.net/free-photo/close-up-baby-hands-mother-hands_23-2149294609.jpg", imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg", imageAlt: "happy grandmother portrait smile" },
-        { id: "4", name: "Ben Lee", date: "Feb 2024", title: "Bright Spirit", quote: "A truly wonderful child to know.", tag: "Peer", avatarSrc: "http://img.b2bpic.net/free-photo/best-friends_329181-7516.jpg", imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg", imageAlt: "happy grandmother portrait smile" },
-        { id: "5", name: "Teacher Jane", date: "Jan 2024", title: "Smart", quote: "Johnny is exceptionally bright.", tag: "Teacher", avatarSrc: "http://img.b2bpic.net/free-photo/teacher-with-glasses-class_23-2148665899.jpg", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg", imageAlt: "happy grandmother portrait smile" }
+        { id: "3", name: "Sarah Miller", date: "March 2024", title: "So Kind", quote: "I love his endless imagination.", tag: "Friend", avatarSrc: "http://img.b2bpic.net/free-photo/close-up-baby-hands-mother-hands_23-2149294609.jpg", imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg?_wi=2", imageAlt: "happy grandmother portrait smile" },
+        { id: "4", name: "Ben Lee", date: "Feb 2024", title: "Bright Spirit", quote: "A truly wonderful child to know.", tag: "Peer", avatarSrc: "http://img.b2bpic.net/free-photo/best-friends_329181-7516.jpg", imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg?_wi=2", imageAlt: "happy grandmother portrait smile" },
+        { id: "5", name: "Teacher Jane", date: "Jan 2024", title: "Smart", quote: "Johnny is exceptionally bright.", tag: "Teacher", avatarSrc: "http://img.b2bpic.net/free-photo/teacher-with-glasses-class_23-2148665899.jpg", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg?_wi=2", imageAlt: "happy grandmother portrait smile" }
       ]}
       title="Kind Words from Loved Ones"
       description="Heartfelt messages from those whose lives were touched by Johnny's charm."
