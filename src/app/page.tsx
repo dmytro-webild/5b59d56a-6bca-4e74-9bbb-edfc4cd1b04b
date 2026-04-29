@@ -74,7 +74,7 @@ export default function LandingPage() {
         },
       ]}
       enableKpiAnimation={true}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg?_wi=1"
       imageAlt="young boy smiling portrait warm"
       mediaAnimation="slide-up"
       avatars={[
@@ -155,7 +155,7 @@ export default function LandingPage() {
             "Fun",
             "Play",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg?_wi=1",
           imageAlt: "childhood toys on shelf",
         },
         {
@@ -165,7 +165,7 @@ export default function LandingPage() {
             "Nature",
             "Active",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg?_wi=1",
           imageAlt: "boy running in park",
         },
         {
@@ -175,7 +175,7 @@ export default function LandingPage() {
             "Learning",
             "Growth",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg?_wi=1",
           imageAlt: "child learning something new",
         },
       ]}
@@ -255,7 +255,7 @@ export default function LandingPage() {
           quote: "Johnny is the light of our lives.",
           tag: "Family",
           avatarSrc: "http://img.b2bpic.net/free-photo/senior-woman-with-pigtails-dressed-blue-blouse_273609-5746.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cheerful-child-with-knit-cap-life-jacket_23-2147562084.jpg?_wi=2",
           imageAlt: "happy grandmother portrait smile",
         },
         {
@@ -277,7 +277,7 @@ export default function LandingPage() {
           quote: "I love his endless imagination.",
           tag: "Friend",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-baby-hands-mother-hands_23-2149294609.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-wooden-toy-plant-arrangement_23-2149357207.jpg?_wi=2",
           imageAlt: "happy grandmother portrait smile",
         },
         {
@@ -288,7 +288,7 @@ export default function LandingPage() {
           quote: "A truly wonderful child to know.",
           tag: "Peer",
           avatarSrc: "http://img.b2bpic.net/free-photo/best-friends_329181-7516.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/scrupulous-superwoman-ready-save-world-from-dirt-cleans-toilet-with-brush-looks-attentively-through-goggles-has-dirty-face-dressed-superhero-costume-isolated-pink-wall_273609-50617.jpg?_wi=2",
           imageAlt: "happy grandmother portrait smile",
         },
         {
@@ -299,7 +299,7 @@ export default function LandingPage() {
           quote: "Johnny is exceptionally bright.",
           tag: "Teacher",
           avatarSrc: "http://img.b2bpic.net/free-photo/teacher-with-glasses-class_23-2148665899.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-kid-cheating-school_23-2150256555.jpg?_wi=2",
           imageAlt: "happy grandmother portrait smile",
         },
       ]}
